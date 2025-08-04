@@ -4,7 +4,6 @@
 | -------------------------------------------------------------------- | ------------ | ------------------------------------------------------- |
 | [raw](https://github.com/md-stack-org/helm-charts/tree/main/charts/raw) | 0.2.5        | raw helm definitions, clone of depricated incubator/raw |
 
-
 ## Usage
 
 [Helm](https://helm.sh) must be installed to use the charts.  Please refer to
@@ -19,8 +18,8 @@ the latest versions of the packages.  You can then run `helm search repo <alias>
 
 To install the `<chart-name>` chart:
 
-    helm install`<chart-name>` md-stack-org/`<chart-name>`
+    helm install `<chart-name>` md-stack-org/`<chart-name>`
 
 To uninstall the chart:
 
-    helm uninstall`<chart-name>`
+    helm uninstall `<chart-name>`
