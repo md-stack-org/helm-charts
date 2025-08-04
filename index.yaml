@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  raw:
+  - apiVersion: v1
+    appVersion: 0.2.3
+    created: "2025-08-04T20:55:23.717759077Z"
+    description: A place for all the Kubernetes resources which don't already have
+      a home.
+    digest: 345796f4be31f6f2a2d99676073f4a9091b12e3fba6db471163945712cb97c82
+    home: https://github.com/md-stack-org/helm-charts/blob/main/charts/raw
+    name: raw
+    urls:
+    - https://github.com/md-stack-org/helm-charts/releases/download/raw-0.2.5/raw-0.2.5.tgz
+    version: 0.2.5
+generated: "2025-08-04T20:55:23.717773834Z"
